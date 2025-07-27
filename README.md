@@ -61,7 +61,7 @@ I will love to focus on desining a responsive designs.
 ## Author
 
 -  linkedin - (www.linkedin.com/in/chisomworlu)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Chisomworlu12)
+- Frontend Mentor - [@Chisomworlu12](https://www.frontendmentor.io/profile/Chisomworlu12)
 
 
 
