@@ -13,6 +13,3 @@
     font-style: normal;
 }
 
-.container {
-    @apply w-full sm:w-[375px] md:w-[1440px];
-} 
