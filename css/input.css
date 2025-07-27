@@ -1,0 +1,18 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+.font {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+.font-outfit {
+    font-family: 'Outfit' sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.container {
+    @apply w-full sm:w-[375px] md:w-[1440px];
+} 
